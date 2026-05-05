@@ -207,18 +207,20 @@ Clan-Bank & Clan-Truhe
 Clan-Level & XP
 
 🎮 Minigames
-KitPVP
+BuildFFA
 
 BedWars
 
-SkyWars
+GunGame
+
+1v1
 
 Events & Turniere
 
 🤝 Community
 Plattform	Link
 🌐 Website	https://goldstube.net
-💬 Discord	https://discord.gg/YOUR_INVITE
+💬 Discord	[https://discord.gg/YOUR_INVITE](https://discord.gg/BUXtNEjksk)
 🔊 TeamSpeak	ts.goldstube.net
 📧 E-Mail	info@goldstube.net
 👨‍💻 Team
@@ -226,10 +228,6 @@ Rolle	Name
 Owner / Head Developer	JavaPluginFX & EyNoah
 Administration	Team GoldStube
 Support	Supporter
-📜 Statistiken
-https://img.shields.io/github/last-commit/YOUR_USERNAME/goldstube?style=flat-square
-https://img.shields.io/github/repo-size/YOUR_USERNAME/goldstube?style=flat-square
-https://img.shields.io/github/languages/code-size/YOUR_USERNAME/goldstube?style=flat-square
 
 📝 Lizenz
 Dieses Projekt ist Eigentum von GoldStube und nicht zur Weiterverbreitung bestimmt.
