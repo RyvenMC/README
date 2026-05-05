@@ -172,6 +172,84 @@
 - 4GB+ RAM empfohlen
 - MySQL (für Datenbanken)
 
+🚀 Features im Detail
+🏠 Plot-System
+Grundstücke kaufen (100.000$ pro Plot)
+
+Plotgröße erweiterbar
+
+Flächen: 500x500, 1000x1000, 1500x1500
+
+Wände & Biome anpassbar
+
+Plot-Flags (PVP, Bauen, etc.)
+
+💰 Wirtschaft
+Eigene Shops mit /player market
+
+Auktionshaus
+
+Admin-Shop mit 64 Slots
+
+Clan-Bank
+
+Job-System mit 4 Berufen
+
+👑 Clans
+Clans mit bis zu 20 Mitgliedern
+
+Clan-Kriege (Timed, Kill-Target, Elimination)
+
+Allianzen & Rivalen
+
+Clan-Bank & Clan-Truhe
+
+Clan-Level & XP
+
+🎮 Minigames
+KitPVP
+
+BedWars
+
+SkyWars
+
+Events & Turniere
+
+🤝 Community
+Plattform	Link
+🌐 Website	https://goldstube.net
+💬 Discord	https://discord.gg/YOUR_INVITE
+🔊 TeamSpeak	ts.goldstube.net
+📧 E-Mail	info@goldstube.net
+👨‍💻 Team
+Rolle	Name
+Owner / Head Developer	JavaPluginFX & EyNoah
+Administration	Team GoldStube
+Support	Supporter
+📜 Statistiken
+https://img.shields.io/github/last-commit/YOUR_USERNAME/goldstube?style=flat-square
+https://img.shields.io/github/repo-size/YOUR_USERNAME/goldstube?style=flat-square
+https://img.shields.io/github/languages/code-size/YOUR_USERNAME/goldstube?style=flat-square
+
+📝 Lizenz
+Dieses Projekt ist Eigentum von GoldStube und nicht zur Weiterverbreitung bestimmt.
+
+<div align="center">
+⭐ GoldStube – Wo Qualität und Gemeinschaft sich treffen! ⭐
+
+Made with ❤️ by hfvt & the GoldStube Team
+
+</div> ```
+📌 Anpassungshinweise
+Platzhalter	Ersetzen mit
+YOUR_USERNAME	Dein GitHub-Benutzername
+YOUR_INVITE	Dein Discord-Server-Einladungslink
+ts.goldstube.net	Deine TeamSpeak-IP/Adresse
+info@goldstube.net	Deine Support-E-Mail
+Die README ist vollständig in englischer Sprache gehalten, da GitHub-Repositories international sind. Falls du eine deutsche Version möchtest, sag Bescheid! 🚀
+
+
+
 ### Setup
 
 ```bash
